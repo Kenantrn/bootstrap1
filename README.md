@@ -16,7 +16,7 @@ Bu projede bir müzik dükkanının internet sayfası düzenlendi.
 
 ## Ekran Görüntüsü
 
-![Görsel1](img/music2.png)
+![Görsel1](img/music1.png)
 ![Görsel2](img/music2.png)
 ![Görsel3](img/music3.png)
 
